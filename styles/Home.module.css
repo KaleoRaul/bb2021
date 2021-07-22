@@ -1,0 +1,103 @@
+
+.navbar{
+  background: #26589f !important; 
+}
+.togglericon > span{
+  background-image: url(https://i.imgur.com/ahL2H8w.png) !important;
+} 
+.togglericon{
+  box-shadow: none !important;
+
+}
+
+
+.NavLink {
+  color : white !important;
+
+}
+.Input {
+  outline: 0 !important;
+  border-width: 0 0 1px !important;
+  border-color:rgba(86, 85, 85, 0.236) !important;
+  margin-bottom: 15px;
+}
+
+.send{
+  margin-top: 20px;
+  width: 300px;
+  background-color: #fbed4e !important;
+  color: #194d9b !important;
+  font-weight: bold !important;
+  border: none !important;
+}
+
+.logo{
+  margin-left: 10px;
+  width: 40px;
+}
+.titulo1{
+  font-size: calc(1.375rem + 1.5vw);
+}
+.card0{
+  border: none !important;
+  padding: 15px;
+}
+
+.cardbody{
+  padding-top: 10px;
+}
+.card2{
+  min-height: 450px;
+    max-height: 450px;
+    display: table;
+    margin-top:0 !important;
+    margin: 20px;
+    -webkit-box-shadow: 0px 2px 5px 1px rgb(153 153 153);
+    -moz-box-shadow: 0px 2px 5px 1px rgba(153,153,153,1);
+    box-shadow: 0px 2px 5px 1px rgb(153 153 153);
+    overflow: hidden;
+    padding: 0px 0px;
+}
+.titulo2{
+  font-size: 20px;
+    position: relative;
+    color: #0f1010;
+    font-weight: bold;
+    margin-top: 18px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.card {
+   
+  min-height: 450px;
+  max-height: 450px;
+  display: table;
+  margin: auto;
+  -webkit-box-shadow: 0px 2px 5px 1px rgb(153 153 153);
+  -moz-box-shadow: 0px 2px 5px 1px rgba(153,153,153,1);
+  box-shadow: 0px 2px 5px 1px rgb(153 153 153);
+
+  overflow: hidden;
+  padding: 0px 30px;
+}
+
+.card >form> h1 {
+  font-size: 20px;
+  position: relative;
+  color: #0f1010;
+  font-weight: bold;
+  margin-top: 18px;
+  margin-bottom: 20px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.card >form> label {
+      font-size: 14px;
+      float: left;
+      padding: 14px;
+      padding-left: 8px;
+      padding-bottom: 10px;
+      color: #0a39ab;  
+}
+
