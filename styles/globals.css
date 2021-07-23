@@ -1,5 +1,5 @@
 :root {
-  --meta-theme-color: #26589f;
+  --meta-theme-color: #26589f !important;
 }
 
 *{
