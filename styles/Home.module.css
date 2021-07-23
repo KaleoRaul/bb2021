@@ -11,7 +11,7 @@
 }
 
 
-.NavLink {
+.NavLink >  a {
   color : white !important;
 
 }
@@ -24,7 +24,7 @@
 
 .send{
   margin-top: 20px;
-  width: 300px;
+  max-width:  100%;
   background-color: #fbed4e !important;
   color: #194d9b !important;
   font-weight: bold !important;
