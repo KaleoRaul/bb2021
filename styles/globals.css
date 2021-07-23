@@ -1,3 +1,6 @@
+:root {
+  --meta-theme-color: #26589f;
+}
 
 *{
   margin: 0;
@@ -5,5 +8,6 @@
   font-family: Arial, Helvetica, sans-serif !important;
   
 }
+
 
 
